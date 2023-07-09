@@ -113,8 +113,10 @@ transform-origin: bottom left;
 }
 
 .paragraph{
-font-size: 18px;
-margin-top: 2.5rem;
+font-size: 20px;
+font-weight: 500;
+font-family: Poppins;
+margin-top: 2rem;
 }
 
 .role{
@@ -123,14 +125,14 @@ margin-top: 2.5rem;
 }
 
 .hero_heading{
-  font-size: 15px;
+  font-size: 22px;
   color: #343d68;
   font-weight: 500;
   
 }
 
 .hero_subheading{
-  font-size: 15px;
+  font-size: 20px;
   margin-top: -1rem;
   font-weight: 500px;
 }
@@ -186,7 +188,7 @@ transition: all 0.6s ease-in;
 
 .figure {
   position: relative;
-  width: 360px; /* can be omitted for a regular non-lazy image */
+  width: 360px; 
   max-width: 100%;
 }
 .figure img.Sirv.image-hover {
@@ -254,12 +256,12 @@ padding-left: 5rem;
 
 .para{
 font-weight: 350;
-font-size: 1.15rem;
+font-size: 20px;
 margin-bottom: 2rem;
 width: 35rem;
 }
 .about-greet{
-font-size: 1.75rem;
+font-size: 1.90rem;
 margin-bottom: 1.5rem;
 justify-self: left;
 }
